@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
+  ///this is one i am going to include the picture on right hand column
   runApp( MyApp());
 }
 
